@@ -9,7 +9,7 @@ public class ReadLocator {
     private FileInputStream instream;
     private Properties pro;
     public ReadLocator(String filename) throws Exception {
-        String filepath=".\\src\\main\\resources\\locators\\"+filename+".xlsx";
+        String filepath=".\\src\\main\\resources\\locators\\"+filename+".properties";
         instream = new FileInputStream(filepath);
         pro=new Properties();
         pro.load(instream);
