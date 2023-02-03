@@ -4,13 +4,6 @@
     <test verbose="2" preserve-order="true" name="D:/ECLIPSE PROJECTS/PAPARAO">
         <classes>
             <class name="nop.commerce.testscripts.LoginPageTest">
-                <methods>
-                    <include name="verifyLoginBtnFunctionalityEmailAsBlank"/>
-                    <include name="verifyLoginBtnFunctionalityWithInvalidEmailFormat"/>
-                    <include name="verifyLoginBtnFunctionalityWithInvalidEmail"/>
-                    <include name="verifyLoginBtnFunctionalityWithvalidEmail"/>
-                    <include name="verifyLoginBtnFunctionalityWithSetOfCredentials"/>
-                </methods>
             </class>
         </classes>
     </test>

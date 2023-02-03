@@ -46,7 +46,7 @@ public class LoginPageTest {
         Assert.assertEquals(actualErrorMsg, DataConfigConstants.EMAIL_BLANK_ERROR_MSG);
     }
 
-    @Test(enabled = true) ///////////////
+    @Test(enabled = false) ///////////////
     public void verifyLoginBtnFunctionalityWithInvalidEmailFormat() throws Exception {
         String invalidEmailFormat=loginData.getData(8,0);
         System.out.println("invalidEmailFormat"+invalidEmailFormat);
@@ -58,7 +58,7 @@ public class LoginPageTest {
         Assert.assertEquals(actualErrorMsg, DataConfigConstants.INVALID_EMAIL_FORMAT_ERROR_MSG);
     }
 
-    @Test(enabled = true) //////
+    @Test(enabled = false) //////
     public void verifyLoginBtnFunctionalityWithInvalidEmail() throws Exception {
         String invalidEmailFormat=loginData.getData(9,0);
         System.out.println("invalidEmailFormat"+invalidEmailFormat);

@@ -4,40 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dba746b-d42e-4b02-9819-1d8abbc192c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/nop/commerce/testscripts/LoginPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-outPut/All Test Suite/D__ECLIPSE PROJECTS_PAPARAO.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-outPut/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/nop commerce functionalcases/nop commerce homepage functional cases.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/nop commerce functionalcases/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/old/nop commerce functionalcases/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/old/nop commerce functionalcases/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/old/nop commerce functionalcases/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/old/nop commerce functionalcases/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/old/nop commerce functionalcases/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/old/nop commerce functionalcases/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/old/nop commerce functionalcases/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/old/nop commerce functionalcases/nop commerce homepage functional cases.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/old/nop commerce functionalcases/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/old/nop commerce functionalcases/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/old/nop commerce functionalcases/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput/testng.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="9dba746b-d42e-4b02-9819-1d8abbc192c3" name="Changes" comment="First Init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/DashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/DashboardPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/utils/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/utils/Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/utils/ReadLocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/utils/ReadLocator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testdata/browserpage.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testdata/browserpage.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testdata/dashboardpage.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testdata/dashboardpage.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testdata/loginpage.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testdata/loginpage.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/nop/commerce/testscripts/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/nop/commerce/testscripts/LoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-outPut/All Test Suite/D__ECLIPSE PROJECTS_PAPARAO.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-outPut/All Test Suite/D__ECLIPSE PROJECTS_PAPARAO.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-outPut/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-outPut/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +18,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -63,6 +42,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2LDV5UZUGX2jkAs3lRMEEQfJnVh" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -156,6 +138,29 @@
       <option name="presentableId" value="Default" />
       <updated>1675405458648</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Init">
+      <created>1675428473246</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675428473247</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Init" />
   </component>
 </project>
