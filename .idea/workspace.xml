@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dba746b-d42e-4b02-9819-1d8abbc192c3" name="Changes" comment="First Init">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nop/commerce/testscripts/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/nop/commerce/testscripts/LoginPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-outPut/All Test Suite/D__ECLIPSE PROJECTS_PAPARAO.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-outPut/All Test Suite/D__ECLIPSE PROJECTS_PAPARAO.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-outPut/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-outPut/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9dba746b-d42e-4b02-9819-1d8abbc192c3" name="Changes" comment="First Init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,8 +13,8 @@
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -145,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675428473247</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Init">
+      <created>1675443743526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675443743526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
