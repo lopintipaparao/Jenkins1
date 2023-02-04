@@ -100,4 +100,11 @@ public class LoginPageTest {
         Assert.assertTrue(dashboardPage.isDashboardVisible(),"Test script failed as Dashboard is not visible ");
     }
 
-}
+    @Test(enabled = true)
+    public void verifyLoginBtnFunctionalityWithSetOfCredentials() throws Exception
+    {
+        System.out.println("PAPARAO LOPINTI ..... /n Execution stopped");
+    }
+
+
+    }
